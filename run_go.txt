@@ -1,0 +1,9 @@
+# 直接运行
+go run hello.go
+
+# 编译运行
+go build hello.go
+./hello
+
+# 线上测试运行
+https://play.golang.org
